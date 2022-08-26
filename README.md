@@ -28,4 +28,5 @@ USUÁRIOS:
     1- josefina
     2- amanda
     3- rogerio
+
 OBS: Pode deparar com algumas versões do Linux não precisa do -crypt fonte -crypy
