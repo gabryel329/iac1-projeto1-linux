@@ -17,16 +17,27 @@ GRUPOS: GRP_ADM GRP_VEN GRP_SEC
 USUÁRIOS:
 
 - GRP_ADM
+
     1- carlos
+    
     2- maria
+    
     3- joao
+    
 - GRP_VEN
+
     1- debora
+    
     2- sebastiana
+    
     3- roberto
+    
 - GRP_SEC
+
     1- josefina
+    
     2- amanda
+    
     3- rogerio
 
 OBS: Pode deparar com algumas versões do Linux não precisa do -crypt fonte -crypy
